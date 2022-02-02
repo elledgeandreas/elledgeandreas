@@ -1,6 +1,5 @@
 - Hi, I’m @elledgeandreas!
-- I hold a Master in Finance & Strategy from Sciences Po Paris and two Bachelors in Economy from Keio University Tokyo and Sciences Po Paris.
-- I now work for a crypto asset investment firm based in Paris, France.
+- I hold a Master in Finance & Strategy from Sciences Po Paris and now work for a crypto asset investment firm based in Paris, France.
 - I've been learning data science and blockchain development while trading cryptocurrencies for the past 4 years.
 - From zero to dev. My goal is to present simple data projects so that anyone can learn to code from scratch.
 - My projects are taken from many learning programs and I will make a selection of the most relevant ones.
